@@ -1,0 +1,7 @@
+.small-container{
+    width: 760px;
+    height: 817px;
+    margin: 0 auto;
+    background: url('./small.png');
+    background-size: 100% 100%;
+}

@@ -1,0 +1,140 @@
+.big-container{
+    width: 1440px;
+    height: 300px;
+    margin: 0 auto;
+    background-color: #2D2765;
+    background: url('./big.png');
+    background-size: 100% 100%;
+}
+.left{
+    width: 312px;
+    height: 172px;
+    float: left;
+    margin: 60px 0 0 372px;
+}
+.left_title{
+    width: 312px;
+    height: 72px;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgba(255, 255, 255, 1);
+    text-align: left;
+    /* vertical-align: top; */
+}
+.left_off{
+    font-size: 72px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    line-height: 88px;
+    margin-top: 20px;
+    color: rgba(255, 255, 255, 1);
+    text-align: left;
+    /* vertical-align: top; */
+}
+.right{
+    width: 534px;
+    height: 200px;
+    float: right;
+    /* background-color: aqua; */
+    margin-right: 50px;
+    margin-top: 40px;
+}
+.shijian{
+    display: inline-block;
+    width: 20px;
+    height: 22px;
+    color: #2D2765;
+    background-color: #D7D4FC;
+    font-size: 16px;
+    text-align: center;
+    vertical-align: top;
+    margin-left:6px;
+    margin-right: 4px;
+}
+.dao_name{
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0px;
+    color: rgba(255, 255, 255, 1);
+    text-align: left;
+    margin-right: 10px;
+    /* vertical-align: top; */
+}
+.right_daojishi{
+    width: 534px;
+    height: 23px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    color: #fff;
+    text-align: right;
+}
+.right_dazhe{
+    width: 534px;
+    height: 150px;
+    background-color: #fff;
+}
+.right_dazhe_left{
+    float: left;
+    padding: 30px 0 0 50px;
+}
+.title1{
+    font-size: 36px;
+    font-weight: 600;
+    letter-spacing: 0px;
+    color: rgba(30, 31, 38, 1);
+    text-align: center;
+    vertical-align: top;
+}
+.title2{
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 0px;
+    color: rgba(30, 31, 38, 1);
+    text-align: center;
+    vertical-align: top;
+}
+.right_dazhe_right{
+    width: 340px;
+    float: right;
+}
+.text1{
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgba(30, 31, 38, 1);
+    text-align: left;
+    vertical-align: top;
+    margin-top: 20px;
+}
+.text2{
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgba(77, 83, 96, 1);
+    text-align: left;
+    vertical-align: top;
+    margin-top: 10px;
+}
+.text3{
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgba(77, 83, 96, 1);
+    text-align: left;
+    vertical-align: top;
+    margin-top: 10px;
+}
+.text4{
+    width: 206px;
+    height: 25px;
+    background-color: black;
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0px;
+    color: rgba(255, 255, 255, 1);
+    padding-top: 5px;
+    text-align: center;
+    vertical-align: top;
+    margin-top: 10px;
+}
